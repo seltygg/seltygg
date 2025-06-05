@@ -6,8 +6,6 @@ From crafting *pixel-perfect* mobile experiences to orchestrating *fault-toleran
 
 <!-- ---------- QUICK GLANCE CARDS ---------- -->
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=seltygg&show_icons=true&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seltygg&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p>
@@ -31,8 +29,7 @@ From crafting *pixel-perfect* mobile experiences to orchestrating *fault-toleran
 
 <!-- ---------- LET’S CONNECT ---------- -->
 ## 📫 Let’s connect
-- **LinkedIn:** [linkedin.com/in/sankalpsikchi](https://linkedin.com/in/sankalp-sikchi)  
-- **Email:** sankalpsikchi@gmail.com  
+- **LinkedIn:** [linkedin.com/in/sankalpsikchi](https://linkedin.com/in/sankalp-sikchi)
 - **Blog:** sankalpsikchi.dev (coming soon!)
 
 *Always open to chatting about interesting problems, open-source collaboration, or the next big idea.* 🚀
