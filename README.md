@@ -6,15 +6,17 @@ From crafting *pixel-perfect* mobile experiences to orchestrating *fault-toleran
 
 <!-- ---------- QUICK GLANCE CARDS ---------- -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seltygg&label=Profile+views&style=flat&color=0e75b6" alt="Profile views"/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=seltygg&show_icons=true&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seltygg&hide_border=true" alt="GitHub Streak"/>
 </p>
-
+<p>
+<img src="https://komarev.com/ghpvc/?username=seltygg&label=Profile+views&style=flat&color=0e75b6" alt="Profile views"/>
+</p>
 <!-- ---------- WHAT I DO ---------- -->
 ## 🧩 What I’m all about
 - **Polyglot builder** – comfortable in Python, Kotlin/Swift, Go, and TypeScript  
-- **Cloud native** – AWS & GCP certified, Kubernetes/Terraform fan, shipping CI/CD pipelines since 2019  
+- **Cloud native** – AWS certified, Kubernetes/Terraform fan, shipping CI/CD pipelines since 2019  
 - **Data-driven** – experience deploying ML models & real-time analytics that power business decisions  
 - **Quality obsessed** – test automation, code reviews, and observability are non-negotiable for me  
 
