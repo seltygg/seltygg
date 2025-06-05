@@ -14,6 +14,8 @@ From crafting *pixel-perfect* mobile experiences to orchestrating *fault-toleran
 <img src="https://komarev.com/ghpvc/?username=seltygg&label=Profile+views&style=flat&color=0e75b6" alt="Profile views"/>
 </p>
 <!-- ---------- WHAT I DO ---------- -->
+
+
 ## 🧩 What I’m all about
 - **Polyglot builder** – comfortable in Python, Kotlin/Swift, Go, and TypeScript  
 - **Cloud native** – AWS certified, Kubernetes/Terraform fan, shipping CI/CD pipelines since 2019  
