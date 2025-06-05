@@ -31,7 +31,7 @@ From crafting *pixel-perfect* mobile experiences to orchestrating *fault-toleran
 
 <!-- ---------- LET’S CONNECT ---------- -->
 ## 📫 Let’s connect
-- **LinkedIn:** [linkedin.com/in/sankalpsikchi](https://linkedin.com/in/sankalpsikchi)  
+- **LinkedIn:** [linkedin.com/in/sankalpsikchi](https://linkedin.com/in/sankalp-sikchi)  
 - **Email:** sankalpsikchi@gmail.com  
 - **Blog:** sankalpsikchi.dev (coming soon!)
 
